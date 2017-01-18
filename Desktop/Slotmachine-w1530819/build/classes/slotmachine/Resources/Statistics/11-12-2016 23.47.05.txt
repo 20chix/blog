@@ -1,0 +1,6 @@
+Statistics: 
+Played:     2 time(s).
+Won:        1 time(s).
+Lost:       1 time(s).
+Betted:     12 credit(s)
+Bet average :6.0 .
